@@ -7,7 +7,7 @@ This repository contains a list of [Atom.io](https://atom.io/) packages recommen
 To install [all of the packages listed](./packages), run this in your terminal.
 
 ```
-apm install $(curl -L )
+apm install $(curl -L https://raw.githubusercontent.com/primer/atom-packages/master/packages)
 ```
 
 ## License
